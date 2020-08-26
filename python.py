@@ -18,3 +18,11 @@
 #     print("good")
 # else:
 #     print("bad")
+
+
+
+
+
+# x = "hello"
+# a = x.find("l")
+# print(a)
