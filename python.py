@@ -41,3 +41,8 @@
 # lst.append(3)
 # lst.pop(0)
 # print(len(lst))
+
+
+
+# #check all str method
+# print(dir(str))
