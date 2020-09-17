@@ -240,6 +240,11 @@
 
 
 
+l=ord('F')
+u=ord('Q')
+for i in range(l,u):
+    print (i)
+
 
 
 

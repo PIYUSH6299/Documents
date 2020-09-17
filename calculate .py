@@ -69,13 +69,25 @@
 # print("\ty = %.2f * x + %.2f" % (k.b)) 
 
 
+# a = [2]
+# x = a.append(4)
+# y = a.append(60)
+# a.append(x)
+# print(a)
+
+# c = a.reverse
 
 
 
+import numpy as np
+import pandas as pd 
 
+# a = ([[1,2,3],[4,5,6],[7,8,9]])
+# b = np.argmax(a)
+# print(b)
 
-
-
+df = [1,2,3,43,5,6,8,7,9,4,6,7,2,4]
+df1 = pd.df()
 
 
 

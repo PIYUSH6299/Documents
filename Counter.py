@@ -15,11 +15,18 @@
 # print(today.hour)
 
 
-import pdb
+# import pdb
 
-x = [1,1,2,3]
-y = 4
-z = 6
-result = x + y
-pdb.set_trance()
-print(result)
+# x = [1,1,2,3]
+# y = 4
+# z = 6
+# result = x + y
+# pdb.set_trance()
+# print(result)
+
+
+def plus_one(number):
+    return number + 1
+
+add_one = plus_one(5)
+print(add_one)
